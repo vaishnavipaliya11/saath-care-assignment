@@ -4,7 +4,7 @@ import { UserProfile } from "../user-profile/user"
 import "../../styles.css"
 export const SignIn =() =>{
 return(
-    <div className="common-column center sign-in-container">
+    <div className="common-column center sign-in-card">
         
         <UserProfile/>
         <PasswordWrapper/>
