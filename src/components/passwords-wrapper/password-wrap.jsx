@@ -9,7 +9,7 @@ export const PasswordWrapper = () => {
       </div>
 
       <p className="margin-sm forget-pass-heading">
-        Forget Password? <a> Reset</a>
+        Forget Password? <a href="#"> Reset</a>
       </p>
 
       <div className="common-flex space-bet pd-lrg sign-bottom-container">
