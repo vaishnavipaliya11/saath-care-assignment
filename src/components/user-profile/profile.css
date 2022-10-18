@@ -1,0 +1,20 @@
+.profile-img {
+  height: 6rem;
+  width: 6rem;
+  border-radius: 50%;
+}
+.user-profile-container button {
+  background: none;
+  border: none;
+}
+.back-btn {
+  background-color: whitesmoke;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  border: 1px solid #808080;
+}
+.username {
+  font-size: 1rem;
+  font-weight: 700;
+}

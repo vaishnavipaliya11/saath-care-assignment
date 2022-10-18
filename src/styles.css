@@ -3,3 +3,28 @@ body {
     padding: 0;
     box-sizing: border-box;
   }
+  .common-flex{
+    display: flex;
+    flex-direction: row;
+  }
+  .common-column{
+    display: flex;
+    flex-direction: column;
+  }
+  .center{
+    align-items: center;
+    justify-content: center;
+  }
+  .space-bet{
+    justify-content: space-between;
+  }
+/* .parent-container{
+    height: 100vh;
+} */
+
+.margin-sm{
+    margin:0
+}
+.pd-sm{
+    padding: 0.5rem;
+}
